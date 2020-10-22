@@ -1,0 +1,26 @@
+name: snapshot_newbies
+
+on:
+  schedule:
+    - cron:  '7 * * * *'
+
+jobs:
+  update-newbies:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+    
+      - name: Update newbies
+        run: Rscript newbies.R
+ 
+      - name: Push update
+        run: |-
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
+          
+        
