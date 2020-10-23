@@ -1,9 +1,11 @@
 "pkg","count"
 "BaseSet_0.0.14",6
-"cem_1.1.23",11
-"eixport_0.5.0",11
-"gnomonicM_1.0.0",6
-"sad_0.1.2",4
-"strm_0.1.1",11
+"cem_1.1.23",12
+"eixport_0.5.0",12
+"geoFKF_0.1.0",1
+"gnomonicM_1.0.0",7
+"sad_0.1.2",5
+"strm_0.1.1",12
 "sureLDA_0.1.0-1",6
-"ukgasapi_0.20",1
+"tinylabels_0.1.0",1
+"ukgasapi_0.20",2
