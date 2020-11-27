@@ -10,7 +10,7 @@
 "akiFlagger_0.1.1",29
 "allcontributors_0.0.2",23
 "altfuelr_0.1.0",276
-"AnchorRegression_0.1.0",2
+"AnchorRegression_0.1.0",3
 "AOV1R_0.1.0",284
 "aRbs_0.0.1",84
 "archeofrag_0.6.0",143
@@ -34,7 +34,7 @@
 "btergm_1.9.13",49
 "campfin_1.0.1",202
 "campfin_1.0.4",11
-"cascadess_0.1.0",20
+"cascadess_0.1.0",21
 "CatDataAnalysis_0.1-3",130
 "causalCmprsk_1.0.0",221
 "CausalMBSTS_0.1.0",248
@@ -76,7 +76,7 @@
 "dggridR_2.0.8",16
 "dglm_1.8.4",169
 "diathor_0.0.1",165
-"dipw_0.1.0",66
+"dipw_0.1.0",67
 "distro_0.1.0",124
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
@@ -95,12 +95,12 @@
 "EcotoneFinder_0.2.2",66
 "EigenR_1.0.0",42
 "eixport_0.5.0",239
-"ellipticalsymmetry_0.1",94
+"ellipticalsymmetry_0.1",95
 "ennet_0.1.0",41
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",43
+"envi_0.1.3",44
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -134,7 +134,7 @@
 "FSDAM_2020.11-18",36
 "FSinR_2.0.5",15
 "fsn_0.1",241
-"functClust_0.1.6",132
+"functClust_0.1.6",133
 "functiondepends_0.2.1",182
 "gamlss.mx_4.5-0",118
 "gamlss.mx_6.0-0",143
@@ -218,7 +218,8 @@
 "latrend_1.0.1",133
 "lazysf_0.1.0",242
 "LDNN_1.7",30
-"LearnClust_1.1",28
+"LDNN_1.8",1
+"LearnClust_1.1",29
 "lehdr_0.2.3",2
 "leidenAlg_0.1.0",238
 "LFDR.MME_1.0",47
@@ -285,7 +286,7 @@
 "netmhc2pan_1.3.1",130
 "NeuralSens_0.2.2",263
 "NFLSimulatoR_0.1.0",217
-"nipnTK_0.1.0",27
+"nipnTK_0.1.0",28
 "nlmixr_1.1.1-10",182
 "noisyCE2_1.1.0",124
 "NPMLEmix_1.1",106
@@ -298,7 +299,7 @@
 "oxcgrt_0.1.0",48
 "packDAMipd_0.1.0",125
 "pak_0.1.2.1",9
-"PandemicLP_0.2.0",20
+"PandemicLP_0.2.0",21
 "pda_1.0",197
 "PDE_1.1.2",8
 "pencal_0.0.1",138
@@ -345,7 +346,7 @@
 "RcmdrPlugin.DCCV_0.1-0",221
 "RCytoGPS_1.0.0",123
 "RCytoGPS_1.0.1",67
-"rdacca.hp_0.1.0",67
+"rdacca.hp_0.1.0",68
 "read.cwa_0.2.1",200
 "RecAssoRules_1.0",29
 "reconstructKM_0.3.0",168
@@ -378,7 +379,7 @@
 "sad_0.1.3",102
 "salem_0.2.0",144
 "sarp.snowprofile.alignment_1.0.0",44
-"sarp.snowprofile.alignment_1.0.1",5
+"sarp.snowprofile.alignment_1.0.1",6
 "SCORNET_0.1.0",140
 "scTenifoldKnk_1.0.0",198
 "sdcLog_0.1.0",146
@@ -407,7 +408,7 @@
 "spfda_0.9.0",108
 "spiro_0.2.0",196
 "srt_0.0.2",29
-"srt_1.0.0",17
+"srt_1.0.0",18
 "stacks_0.1.0",74
 "starnet_0.0.5",125
 "statswalesr_0.1.0",30
@@ -456,7 +457,7 @@
 "USP_0.0.0.9000",118
 "USP_0.1",131
 "USP_0.1.1",113
-"VarRedOpt_0.1.0",90
+"VarRedOpt_0.1.0",91
 "vindecodr_0.1.1",41
 "viscomplexr_1.0.1",226
 "vitae_0.3.0",107
