@@ -9,8 +9,9 @@
 "akiFlagger_0.1.0",145
 "akiFlagger_0.1.1",29
 "allcontributors_0.0.2",23
+"altadata_0.1.0",1
 "altfuelr_0.1.0",276
-"AnchorRegression_0.1.0",10
+"AnchorRegression_0.1.0",11
 "AOV1R_0.1.0",284
 "aRbs_0.0.1",84
 "archeofrag_0.6.0",143
@@ -20,7 +21,7 @@
 "AzureTableStor_1.0.0",178
 "BaseSet_0.0.14",278
 "bayesGAM_0.0.1",222
-"bcfrailphdv_0.1.0",48
+"bcfrailphdv_0.1.0",49
 "bcr_0.0.0.9000",37
 "bcr_0.1.0",67
 "BCT_1.0",133
@@ -34,7 +35,7 @@
 "btergm_1.9.13",49
 "campfin_1.0.1",202
 "campfin_1.0.4",11
-"cascadess_0.1.0",28
+"cascadess_0.1.0",29
 "CatDataAnalysis_0.1-3",130
 "causalCmprsk_1.0.0",221
 "CausalMBSTS_0.1.0",248
@@ -54,7 +55,7 @@
 "cmfrec_2.3.0",60
 "codebreaker_0.0.1",31
 "codebreaker_0.0.2",110
-"comFuncs_0.0.4",12
+"comFuncs_0.0.4",13
 "CoMiRe_0.6",21
 "CopyNumber450kCancer_1.0.7",65
 "covid19sf_0.1.0",89
@@ -76,7 +77,7 @@
 "dggridR_2.0.8",16
 "dglm_1.8.4",169
 "diathor_0.0.1",165
-"dipw_0.1.0",74
+"dipw_0.1.0",75
 "distro_0.1.0",124
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
@@ -95,12 +96,12 @@
 "EcotoneFinder_0.2.2",66
 "EigenR_1.0.0",42
 "eixport_0.5.0",239
-"ellipticalsymmetry_0.1",102
+"ellipticalsymmetry_0.1",103
 "ennet_0.1.0",41
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",51
+"envi_0.1.3",52
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -134,7 +135,7 @@
 "FSDAM_2020.11-18",36
 "FSinR_2.0.5",15
 "fsn_0.1",241
-"functClust_0.1.6",140
+"functClust_0.1.6",141
 "functiondepends_0.2.1",182
 "gamlss.mx_4.5-0",118
 "gamlss.mx_6.0-0",143
@@ -218,10 +219,10 @@
 "latrend_1.0.1",133
 "lazysf_0.1.0",242
 "LDNN_1.7",30
-"LDNN_1.8",8
-"LDNN_1.9",7
-"leaflet.multiopacity_0.1.0",7
-"LearnClust_1.1",36
+"LDNN_1.8",9
+"LDNN_1.9",8
+"leaflet.multiopacity_0.1.0",8
+"LearnClust_1.1",37
 "lehdr_0.2.3",2
 "leidenAlg_0.1.0",238
 "LFDR.MME_1.0",47
@@ -241,7 +242,7 @@
 "mapboxer_0.4.0",164
 "mappoly_0.2.1",10
 "mapSpain_0.1.0",24
-"mapSpain_0.1.1",5
+"mapSpain_0.1.1",6
 "maptiles_0.1.0",246
 "matuR_0.0.1.0",161
 "mcbette_1.11",119
@@ -270,7 +271,7 @@
 "ML2Pvae_1.0.0",135
 "mlr3benchmark_0.1.0",118
 "mlr3spatiotempcv_0.1.0",278
-"modeltime.gluonts_0.1.0",63
+"modeltime.gluonts_0.1.0",64
 "modeltime.resample_0.1.0",182
 "modmarg_0.9.5",64
 "modmarg_0.9.6",24
@@ -278,6 +279,7 @@
 "MolgenisAuth_0.0.12",156
 "MolgenisAuth_0.0.14",115
 "MonoPhy_1.3",104
+"mrgsim.sa_0.1.0",1
 "msSPChelpR_0.8.6",184
 "mully_2.1.21",12
 "mully_2.1.22",1
@@ -289,7 +291,7 @@
 "netmhc2pan_1.3.1",130
 "NeuralSens_0.2.2",263
 "NFLSimulatoR_0.1.0",217
-"nipnTK_0.1.0",35
+"nipnTK_0.1.0",36
 "nlmixr_1.1.1-10",182
 "noisyCE2_1.1.0",124
 "NPMLEmix_1.1",106
@@ -302,7 +304,7 @@
 "oxcgrt_0.1.0",48
 "packDAMipd_0.1.0",125
 "pak_0.1.2.1",9
-"PandemicLP_0.2.0",28
+"PandemicLP_0.2.0",29
 "pda_1.0",197
 "PDE_1.1.2",8
 "pencal_0.0.1",138
@@ -349,7 +351,7 @@
 "RcmdrPlugin.DCCV_0.1-0",221
 "RCytoGPS_1.0.0",123
 "RCytoGPS_1.0.1",67
-"rdacca.hp_0.1.0",75
+"rdacca.hp_0.1.0",76
 "read.cwa_0.2.1",200
 "RecAssoRules_1.0",29
 "reconstructKM_0.3.0",168
@@ -382,7 +384,7 @@
 "sad_0.1.3",102
 "salem_0.2.0",144
 "sarp.snowprofile.alignment_1.0.0",44
-"sarp.snowprofile.alignment_1.0.1",13
+"sarp.snowprofile.alignment_1.0.1",14
 "SCORNET_0.1.0",140
 "scTenifoldKnk_1.0.0",198
 "sdcLog_0.1.0",146
@@ -403,7 +405,7 @@
 "SleepCycles_1.0.0",42
 "slopeOP_1.0.0",84
 "SMDIC_0.1.3",143
-"SOMEnv_0.1.1",6
+"SOMEnv_0.1.1",7
 "SPARTAAS_1.0.0",44
 "SpatialRegimes_0.1",122
 "SpatialRegimes_0.2",6
@@ -412,7 +414,7 @@
 "spfda_0.9.0",108
 "spiro_0.2.0",196
 "srt_0.0.2",29
-"srt_1.0.0",25
+"srt_1.0.0",26
 "stacks_0.1.0",74
 "starnet_0.0.5",125
 "statswalesr_0.1.0",30
@@ -461,7 +463,7 @@
 "USP_0.0.0.9000",118
 "USP_0.1",131
 "USP_0.1.1",113
-"VarRedOpt_0.1.0",98
+"VarRedOpt_0.1.0",99
 "vindecodr_0.1.1",41
 "viscomplexr_1.0.1",226
 "vitae_0.3.0",107
