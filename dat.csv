@@ -21,7 +21,7 @@
 "AzureTableStor_1.0.0",178
 "BaseSet_0.0.14",278
 "bayesGAM_0.0.1",222
-"bcfrailphdv_0.1.0",76
+"bcfrailphdv_0.1.0",77
 "bcr_0.0.0.9000",37
 "bcr_0.1.0",67
 "BCT_1.0",133
@@ -35,7 +35,7 @@
 "btergm_1.9.13",49
 "campfin_1.0.1",202
 "campfin_1.0.4",11
-"cascadess_0.1.0",56
+"cascadess_0.1.0",57
 "CatDataAnalysis_0.1-3",130
 "causalCmprsk_1.0.0",221
 "CausalMBSTS_0.1.0",248
@@ -55,7 +55,7 @@
 "cmfrec_2.3.0",60
 "codebreaker_0.0.1",31
 "codebreaker_0.0.2",110
-"comFuncs_0.0.4",40
+"comFuncs_0.0.4",41
 "CoMiRe_0.6",21
 "CopyNumber450kCancer_1.0.7",65
 "covid19sf_0.1.0",89
@@ -77,14 +77,14 @@
 "dggridR_2.0.8",16
 "dglm_1.8.4",169
 "diathor_0.0.1",165
-"dipw_0.1.0",102
+"dipw_0.1.0",103
 "distro_0.1.0",124
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
 "dracor_0.2.4",39
 "dragracer_0.1.4",112
 "drawsample_0.1.0",16
-"drawsample_0.1.1",21
+"drawsample_0.1.1",22
 "driveR_0.1.1",130
 "DSMolgenisArmadillo_1.3.4",110
 "DTAplots_1.0.2.1",5
@@ -97,12 +97,12 @@
 "EcotoneFinder_0.2.2",66
 "EigenR_1.0.0",42
 "eixport_0.5.0",239
-"ellipticalsymmetry_0.1",130
+"ellipticalsymmetry_0.1",131
 "ennet_0.1.0",41
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",79
+"envi_0.1.3",80
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -136,7 +136,7 @@
 "FSDAM_2020.11-18",36
 "FSinR_2.0.5",15
 "fsn_0.1",241
-"functClust_0.1.6",168
+"functClust_0.1.6",169
 "functiondepends_0.2.1",182
 "gamlss.mx_4.5-0",118
 "gamlss.mx_6.0-0",143
@@ -177,10 +177,10 @@
 "GWpcor_0.1.4",4
 "HDiR_1.0",1
 "hdpGLM_1.0.0",306
-"healthyR_0.1.0",17
+"healthyR_0.1.0",18
 "healthyR.data_1.0.0",155
 "HeckmanEM_0.1.1",168
-"hse_0.0-14",12
+"hse_0.0-14",13
 "htsr_1.0.1",3
 "htsr_1.0.2",2
 "htsr_1.0.3",20
@@ -222,8 +222,8 @@
 "lazysf_0.1.0",242
 "LDNN_1.7",30
 "LDNN_1.8",35
-"LDNN_1.9",35
-"leaflet.multiopacity_0.1.0",35
+"LDNN_1.9",36
+"leaflet.multiopacity_0.1.0",36
 "LearnClust_1.1",52
 "lehdr_0.2.3",2
 "leidenAlg_0.1.0",238
@@ -244,7 +244,7 @@
 "mapboxer_0.4.0",164
 "mappoly_0.2.1",10
 "mapSpain_0.1.0",24
-"mapSpain_0.1.1",33
+"mapSpain_0.1.1",34
 "maptiles_0.1.0",246
 "matuR_0.0.1.0",161
 "mcbette_1.11",119
@@ -263,7 +263,7 @@
 "microeco_0.2.1",269
 "MicroSEC_1.1.0",12
 "MicroSEC_1.1.1",50
-"MicroSEC_1.1.2",12
+"MicroSEC_1.1.2",13
 "migrate_0.1.0",36
 "mikropml_0.0.1",94
 "missCompare_1.0.2",162
@@ -274,7 +274,7 @@
 "ML2Pvae_1.0.0",135
 "mlr3benchmark_0.1.0",118
 "mlr3spatiotempcv_0.1.0",278
-"modeltime.gluonts_0.1.0",91
+"modeltime.gluonts_0.1.0",92
 "modeltime.resample_0.1.0",182
 "modmarg_0.9.5",64
 "modmarg_0.9.6",24
@@ -282,7 +282,7 @@
 "MolgenisAuth_0.0.12",156
 "MolgenisAuth_0.0.14",115
 "MonoPhy_1.3",104
-"mrgsim.sa_0.1.0",28
+"mrgsim.sa_0.1.0",29
 "msSPChelpR_0.8.6",184
 "mully_2.1.21",12
 "mully_2.1.22",1
@@ -294,7 +294,7 @@
 "netmhc2pan_1.3.1",130
 "NeuralSens_0.2.2",263
 "NFLSimulatoR_0.1.0",217
-"nipnTK_0.1.0",63
+"nipnTK_0.1.0",64
 "nlmixr_1.1.1-10",182
 "noisyCE2_1.1.0",124
 "NPMLEmix_1.1",106
@@ -307,7 +307,7 @@
 "oxcgrt_0.1.0",48
 "packDAMipd_0.1.0",125
 "pak_0.1.2.1",9
-"PandemicLP_0.2.0",56
+"PandemicLP_0.2.0",57
 "pda_1.0",197
 "PDE_1.1.2",8
 "pencal_0.0.1",138
@@ -334,7 +334,7 @@
 "pssmooth_1.0.3",3
 "PubMedMining_0.0.0.9000",16
 "PubMedMining_1.0.0",251
-"puls_0.1.0",22
+"puls_0.1.0",23
 "Q2q_0.1.0",55
 "Q7_0.1.0",188
 "QF_0.0.1",144
@@ -355,7 +355,7 @@
 "RcmdrPlugin.DCCV_0.1-0",221
 "RCytoGPS_1.0.0",123
 "RCytoGPS_1.0.1",67
-"rdacca.hp_0.1.0",103
+"rdacca.hp_0.1.0",104
 "read.cwa_0.2.1",200
 "RecAssoRules_1.0",29
 "reconstructKM_0.3.0",168
@@ -388,7 +388,7 @@
 "sad_0.1.3",102
 "salem_0.2.0",144
 "sarp.snowprofile.alignment_1.0.0",44
-"sarp.snowprofile.alignment_1.0.1",41
+"sarp.snowprofile.alignment_1.0.1",42
 "SCORNET_0.1.0",140
 "scTenifoldKnk_1.0.0",198
 "sdcLog_0.1.0",146
@@ -409,7 +409,7 @@
 "SleepCycles_1.0.0",42
 "slopeOP_1.0.0",84
 "SMDIC_0.1.3",143
-"SOMEnv_0.1.1",34
+"SOMEnv_0.1.1",35
 "SPARTAAS_1.0.0",44
 "SpatialRegimes_0.1",122
 "SpatialRegimes_0.2",6
@@ -418,7 +418,7 @@
 "spfda_0.9.0",108
 "spiro_0.2.0",196
 "srt_0.0.2",29
-"srt_1.0.0",53
+"srt_1.0.0",54
 "stacks_0.1.0",74
 "starnet_0.0.5",125
 "statswalesr_0.1.0",30
@@ -453,7 +453,7 @@
 "tmhmm_1.3",151
 "TPLSr_1.0.0",16
 "TPLSr_1.0.1",200
-"TraitStats_1.0.0",36
+"TraitStats_1.0.0",37
 "transx_0.0.1",36
 "TreeDiagram_0.1.0",146
 "trendeval_0.0.1",20
