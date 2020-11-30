@@ -8,11 +8,11 @@
 "ahptopsis2n_0.1.0",162
 "akiFlagger_0.1.0",145
 "akiFlagger_0.1.1",29
-"akiFlagger_0.1.2",5
+"akiFlagger_0.1.2",6
 "allcontributors_0.0.2",23
 "altadata_0.1.0",16
 "altfuelr_0.1.0",276
-"AnchorRegression_0.1.0",53
+"AnchorRegression_0.1.0",54
 "AOV1R_0.1.0",284
 "aRbs_0.0.1",84
 "archeofrag_0.6.0",143
@@ -35,7 +35,7 @@
 "BSBT_1.0.0",308
 "btergm_1.9.12",63
 "btergm_1.9.13",49
-"BTYD_2.4.1",29
+"BTYD_2.4.1",30
 "campfin_1.0.1",202
 "campfin_1.0.4",11
 "cascadess_0.1.0",86
@@ -53,7 +53,7 @@
 "chickn_1.2.2",96
 "ciftiTools_0.1.6.0",29
 "ciu_0.1.0",183
-"clevr_0.1.1",26
+"clevr_0.1.1",27
 "CME.assistant_1.1.0",117
 "cmfrec_2.2.5",20
 "cmfrec_2.3.0",60
@@ -69,7 +69,7 @@
 "CTP_2.0.0",286
 "cupcake_0.1.0.0",200
 "curephEM_0.1.6",196
-"CurVol_1.0.0",14
+"CurVol_1.0.0",15
 "CVEK_0.1-0",80
 "dabr_0.0.1",155
 "datacleanr_1.0.0",220
@@ -84,13 +84,13 @@
 "diathor_0.0.1",165
 "dipw_0.1.0",132
 "distro_0.1.0",124
-"doc2vec_0.1.0",17
+"doc2vec_0.1.0",18
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
 "dracor_0.2.4",39
 "dragracer_0.1.4",112
 "drawsample_0.1.0",16
-"drawsample_0.1.1",53
+"drawsample_0.1.1",54
 "driveR_0.1.1",130
 "DSMolgenisArmadillo_1.3.4",110
 "DTAplots_1.0.2.1",5
@@ -108,7 +108,7 @@
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",111
+"envi_0.1.3",112
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -143,7 +143,7 @@
 "FSDAM_2020.11-18",36
 "FSinR_2.0.5",15
 "fsn_0.1",241
-"functClust_0.1.6",199
+"functClust_0.1.6",200
 "functiondepends_0.2.1",182
 "gamlss.mx_4.5-0",118
 "gamlss.mx_6.0-0",143
@@ -193,12 +193,12 @@
 "htsr_1.0.3",20
 "htsr_1.0.4",43
 "IAcsSPCR_1.2.1",65
-"iccde_0.1.0",15
+"iccde_0.1.0",16
 "IFP_0.2.3",55
 "ifultools_2.0-18",6
 "ifultools_2.0-19",6
 "IMEC_0.2.0",167
-"IMIX_0.1-2",12
+"IMIX_0.1-2",13
 "insane_0.1.0",184
 "intensegRid_0.1.0",249
 "INTRIGUE_0.1.0",143
@@ -225,10 +225,11 @@
 "kofdata_0.1.4",149
 "landmap_0.0.4",205
 "landmap_0.0.5",121
-"latentgraph_1.0",37
+"latentgraph_1.0",38
 "latrend_1.0.0",108
 "latrend_1.0.1",133
 "lazysf_0.1.0",242
+"LDNN_1.10",1
 "LDNN_1.7",30
 "LDNN_1.8",35
 "LDNN_1.9",65
@@ -244,7 +245,7 @@
 "LMoFit_0.1.4",8
 "LMoFit_0.1.5",38
 "LMoFit_0.1.6",29
-"LOCUS_1.0",5
+"LOCUS_1.0",6
 "lppl_0.1.0",5
 "LPsmooth_0.1.2",5
 "LPsmooth_0.1.3",3
@@ -270,7 +271,7 @@
 "mgee2_0.1",215
 "mhcnuggetsr_1.1",192
 "microbial_0.0.15",36
-"microbial_0.0.16",12
+"microbial_0.0.16",13
 "microeco_0.2.1",269
 "MicroSEC_1.1.0",12
 "MicroSEC_1.1.1",50
@@ -293,7 +294,7 @@
 "MolgenisAuth_0.0.12",156
 "MolgenisAuth_0.0.14",115
 "MonoPhy_1.3",104
-"motifr_1.0.0",2
+"motifr_1.0.0",3
 "mrgsim.sa_0.1.0",60
 "msSPChelpR_0.8.6",184
 "mully_2.1.21",12
@@ -310,7 +311,7 @@
 "nlmixr_1.1.1-10",182
 "noisyCE2_1.1.0",124
 "NPMLEmix_1.1",106
-"nsyllable_1.0",3
+"nsyllable_1.0",4
 "occCite_0.4.5",14
 "onlineretail_0.1.0",63
 "openSkies_0.99.3",215
@@ -339,7 +340,7 @@
 "POV_0.1.4",112
 "ppmSuite_0.1.0",139
 "PPTcirc_0.1.0",286
-"PRDA_1.0.0",12
+"PRDA_1.0.0",13
 "prioritylasso_0.2.5",125
 "PRISMA2020_0.0.1",2
 "psqn_0.1.3",5
@@ -403,7 +404,7 @@
 "sad_0.1.2",232
 "sad_0.1.3",102
 "salem_0.2.0",144
-"sapevom_0.1.0",17
+"sapevom_0.1.0",18
 "sarp.snowprofile.alignment_1.0.0",44
 "sarp.snowprofile.alignment_1.0.1",71
 "SCORNET_0.1.0",140
@@ -416,7 +417,7 @@
 "ShellChron_0.2.7",151
 "ShellChron_0.2.8",38
 "shinydlplot_0.1.2",36
-"shinyfilter_0.1.0",56
+"shinyfilter_0.1.0",57
 "ShinyQuickStarter_1.0.0",118
 "silicate_0.7.0",258
 "simPop_1.2.1",116
@@ -452,7 +453,7 @@
 "SymbolicDeterminants_1.0.0.9001",8
 "SymbolicDeterminants_1.0.1",189
 "SymbolicDeterminants_1.0.2",124
-"tablesgg_0.7-1",13
+"tablesgg_0.7-1",14
 "tabularaster_0.6.6",37
 "tensorBSS_0.3.7",9
 "TensorTest2D_1.0.0",170
@@ -461,7 +462,7 @@
 "TGST_1.0",112
 "theiaR_0.4.0",109
 "this.path_0.1.0",312
-"threesixtygiving_0.2.2",12
+"threesixtygiving_0.2.2",13
 "tidyseurat_0.1.13",2
 "tidyseurat_0.1.14",9
 "tidyseurat_0.1.15",101
@@ -486,7 +487,7 @@
 "USP_0.0.0.9000",118
 "USP_0.1",131
 "USP_0.1.1",113
-"VarRedOpt_0.1.0",138
+"VarRedOpt_0.1.0",139
 "vindecodr_0.1.1",41
 "viscomplexr_1.0.1",226
 "vitae_0.3.0",107
