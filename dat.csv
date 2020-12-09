@@ -72,7 +72,7 @@
 "comFuncs_0.0.5",27
 "CoMiRe_0.6",85
 "comparator_0.1.0",50
-"comparator_0.1.1",1
+"comparator_0.1.1",2
 "CompAREdesign_0.0.0.9000",1
 "CompAREdesign_1.5",110
 "ComplexUpset_0.7.3",65
@@ -106,7 +106,7 @@
 "diathor_0.0.1",165
 "dipw_0.1.0",132
 "distro_0.1.0",124
-"doc2vec_0.1.0",78
+"doc2vec_0.1.0",79
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
 "dracor_0.2.4",39
@@ -132,7 +132,7 @@
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",325
+"envi_0.1.3",326
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -197,7 +197,7 @@
 "GGMncv_2.0.0",8
 "ggpackets_2.0.0",117
 "ggthemr_1.1.0",50
-"giftwrap_0.0.4",87
+"giftwrap_0.0.4",88
 "giscoR_0.2.2",13
 "gitcreds_0.1.0",163
 "gmgm_1.0.0",224
@@ -342,7 +342,7 @@
 "mockthat_0.2.4",28
 "modeltime.gluonts_0.1.0",121
 "modeltime.resample_0.1.0",182
-"MODIStsp_2.0.5",25
+"MODIStsp_2.0.5",26
 "modmarg_0.9.5",64
 "modmarg_0.9.6",24
 "MolgenisAuth_0.0.11",157
@@ -373,7 +373,7 @@
 "onlineretail_0.1.0",63
 "openSkies_0.99.3",215
 "opentimsr_1.0.0",106
-"opentimsr_1.0.2",60
+"opentimsr_1.0.2",61
 "OptCirClust_0.0.1",93
 "ordinalClust_1.3.5",10
 "osDesign_1.8",203
@@ -383,7 +383,7 @@
 "pafr_0.0.2",78
 "pagoo_0.3.7",44
 "pak_0.1.2.1",9
-"PAMpal_0.9.13",37
+"PAMpal_0.9.13",38
 "PandemicLP_0.2.0",86
 "pda_1.0",197
 "PDE_1.1.2",8
@@ -414,7 +414,7 @@
 "PSS.Health_0.1.3",5
 "PSS.Health_0.1.4",54
 "pssmooth_1.0.3",3
-"ptm_0.2.0",24
+"ptm_0.2.0",25
 "PubMedMining_0.0.0.9000",16
 "PubMedMining_1.0.0",251
 "puls_0.1.0",98
