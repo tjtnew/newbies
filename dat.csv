@@ -32,7 +32,7 @@
 "BCT_1.0",133
 "BGmisc_0.0.0.9000",20
 "BGmisc_0.1",124
-"bibliometrixData_0.1.0",2
+"bibliometrixData_0.1.0",3
 "biClassify_1.0",158
 "blatent_0.1.0",127
 "BNPMIXcluster_1.3",15
@@ -73,7 +73,7 @@
 "comFuncs_0.0.5",27
 "CoMiRe_0.6",85
 "comparator_0.1.0",50
-"comparator_0.1.1",4
+"comparator_0.1.1",5
 "CompAREdesign_0.0.0.9000",1
 "CompAREdesign_1.5",110
 "ComplexUpset_0.7.3",65
@@ -107,7 +107,7 @@
 "diathor_0.0.1",165
 "dipw_0.1.0",132
 "distro_0.1.0",124
-"doc2vec_0.1.0",81
+"doc2vec_0.1.0",82
 "dotgen_0.1.0",250
 "DPQmpfr_0.3-0",53
 "dracor_0.2.4",39
@@ -133,7 +133,7 @@
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",328
+"envi_0.1.3",329
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -198,7 +198,7 @@
 "GGMncv_2.0.0",8
 "ggpackets_2.0.0",117
 "ggthemr_1.1.0",50
-"giftwrap_0.0.4",90
+"giftwrap_0.0.4",91
 "giscoR_0.2.2",13
 "gitcreds_0.1.0",163
 "gmgm_1.0.0",224
@@ -343,7 +343,7 @@
 "mockthat_0.2.4",28
 "modeltime.gluonts_0.1.0",121
 "modeltime.resample_0.1.0",182
-"MODIStsp_2.0.5",28
+"MODIStsp_2.0.5",29
 "modmarg_0.9.5",64
 "modmarg_0.9.6",24
 "MolgenisAuth_0.0.11",157
@@ -374,7 +374,7 @@
 "onlineretail_0.1.0",63
 "openSkies_0.99.3",215
 "opentimsr_1.0.0",106
-"opentimsr_1.0.2",63
+"opentimsr_1.0.2",64
 "OptCirClust_0.0.1",93
 "ordinalClust_1.3.5",10
 "osDesign_1.8",203
@@ -384,7 +384,7 @@
 "pafr_0.0.2",78
 "pagoo_0.3.7",44
 "pak_0.1.2.1",9
-"PAMpal_0.9.13",40
+"PAMpal_0.9.13",41
 "PandemicLP_0.2.0",86
 "pda_1.0",197
 "PDE_1.1.2",8
@@ -415,7 +415,7 @@
 "PSS.Health_0.1.3",5
 "PSS.Health_0.1.4",54
 "pssmooth_1.0.3",3
-"ptm_0.2.0",27
+"ptm_0.2.0",28
 "PubMedMining_0.0.0.9000",16
 "PubMedMining_1.0.0",251
 "puls_0.1.0",98
@@ -462,7 +462,7 @@
 "rgugik_0.2.0",109
 "rhcoclust_1.0.0",138
 "ricu_0.1.2",213
-"rjpdmp_0.1.0",47
+"rjpdmp_0.1.0",48
 "rMisbeta_1.0",125
 "rmoo_0.1.4",124
 "rmoo_0.1.5",101
