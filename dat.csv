@@ -21,6 +21,7 @@
 "arctools_1.0.0",29
 "ata_1.1.1",6
 "ausplotsR_1.2",175
+"autoCovariateSelection_1.0.0",1
 "AzureTableStor_1.0.0",178
 "babsim.hospital_11.5.8",59
 "BaM_1.0.2",2
@@ -64,7 +65,7 @@
 "ciftiTools_0.1.6.0",29
 "ciu_0.1.0",183
 "clevr_0.1.1",117
-"cmcR_0.1.2",9
+"cmcR_0.1.2",10
 "CME.assistant_1.1.0",117
 "cmfrec_2.2.5",20
 "cmfrec_2.3.0",60
@@ -74,7 +75,7 @@
 "comFuncs_0.0.5",27
 "CoMiRe_0.6",85
 "comparator_0.1.0",50
-"comparator_0.1.1",23
+"comparator_0.1.1",24
 "CompAREdesign_0.0.0.9000",1
 "CompAREdesign_1.5",110
 "ComplexUpset_0.7.3",65
@@ -93,7 +94,7 @@
 "CVEK_0.1-0",80
 "dabr_0.0.1",155
 "datacleanr_1.0.0",220
-"dataReporter_1.0.0",90
+"dataReporter_1.0.0",91
 "DatastreamDSWS2R_1.7.6",4
 "DatastreamDSWS2R_1.7.7",67
 "DatastreamDSWS2R_1.7.9",38
@@ -134,7 +135,7 @@
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",347
+"envi_0.1.3",348
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -312,7 +313,7 @@
 "mdbr_0.1.1",147
 "mdbr_0.1.2",131
 "MDOLS_1.0",8
-"mecor_0.9.0",13
+"mecor_0.9.0",14
 "MEDseq_1.2.0",6
 "metaEnsembleR_0.1.0",311
 "MetaIntegration_0.1.1",176
@@ -352,7 +353,7 @@
 "MolgenisAuth_0.0.12",156
 "MolgenisAuth_0.0.14",115
 "MonoPhy_1.3",104
-"motifr_1.0.0",159
+"motifr_1.0.0",160
 "mrgsim.sa_0.1.0",60
 "msSPChelpR_0.8.6",184
 "mully_2.1.21",12
@@ -376,7 +377,7 @@
 "onlineretail_0.1.0",63
 "openSkies_0.99.3",215
 "opentimsr_1.0.0",106
-"opentimsr_1.0.2",82
+"opentimsr_1.0.2",83
 "OptCirClust_0.0.1",93
 "ordinalClust_1.3.5",10
 "osDesign_1.8",203
@@ -448,7 +449,7 @@
 "rdacca.hp_0.1.0",221
 "read.cwa_0.2.1",200
 "read.gt3x_1.0.0",59
-"readrba_0.1.0",26
+"readrba_0.1.0",27
 "RecAssoRules_1.0",81
 "reconstructKM_0.3.0",168
 "RefManageR_1.3.0",146
@@ -465,7 +466,7 @@
 "rgugik_0.2.0",109
 "rhcoclust_1.0.0",138
 "ricu_0.1.2",213
-"rjpdmp_0.1.0",66
+"rjpdmp_0.1.0",67
 "rMisbeta_1.0",125
 "rmoo_0.1.4",124
 "rmoo_0.1.5",101
@@ -473,16 +474,16 @@
 "RNGforGPD_1.1.0",17
 "RPPASPACE_1.0.5",88
 "RPPASPACE_1.0.6",42
-"RPPASPACE_1.0.7",16
+"RPPASPACE_1.0.7",17
 "rsetse_0.4.0",155
-"rstac_0.9.0",14
+"rstac_0.9.0",15
 "RstoxData_1.0.15",131
 "RstoxData_1.0.16",144
 "RtD3_0.0.1",103
 "Rthingsboard_0.1.0",8
 "Rthingsboard_0.2.0",66
 "RVA_0.0.2",60
-"RVA_0.0.3",54
+"RVA_0.0.3",55
 "rwa_0.0.2",138
 "rwa_0.0.3",43
 "sad_0.1.2",232
@@ -519,7 +520,7 @@
 "slopeOP_1.0.0",84
 "SMDIC_0.1.3",143
 "SOMEnv_0.1.1",64
-"SPARSEMODr_1.0",25
+"SPARSEMODr_1.0",26
 "SPARTAAS_1.0.0",44
 "SpatialRegimes_0.1",122
 "SpatialRegimes_0.2",6
@@ -538,7 +539,7 @@
 "strm_0.1.1",239
 "sudachir_0.1.0",267
 "sugarbag_0.1.3",8
-"SUNGEO_0.2.0",11
+"SUNGEO_0.2.0",12
 "sureLDA_0.1.0-1",356
 "surface_0.5",121
 "SurrogateRegression_0.5.0",41
@@ -551,6 +552,7 @@
 "SymbolicDeterminants_1.0.2",124
 "tablesgg_0.7-1",59
 "tabularaster_0.6.6",39
+"taxa2_0.1.0",1
 "tboot_0.2.1",1
 "tensorBSS_0.3.7",9
 "TensorTest2D_1.0.0",170
