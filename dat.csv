@@ -21,9 +21,9 @@
 "arctools_1.0.0",29
 "ata_1.1.1",6
 "ausplotsR_1.2",175
-"autoCovariateSelection_1.0.0",24
+"autoCovariateSelection_1.0.0",25
 "AzureTableStor_1.0.0",178
-"babsim.hospital_11.5.14",15
+"babsim.hospital_11.5.14",16
 "babsim.hospital_11.5.8",59
 "BaM_1.0.2",2
 "BaseSet_0.0.14",278
@@ -35,7 +35,7 @@
 "BGmisc_0.0.0.9000",20
 "BGmisc_0.1",124
 "bibliometrixData_0.1.0",21
-"biClassify_1.0",162
+"biClassify_1.0",163
 "blatent_0.1.0",127
 "BNPMIXcluster_1.3",15
 "boutliers_1.1-1",184
@@ -93,7 +93,7 @@
 "curephEM_0.1.6",196
 "CurVol_1.0.0",60
 "CVEK_0.1-0",80
-"CVEK_0.1-2",13
+"CVEK_0.1-2",14
 "dabr_0.0.1",155
 "datacleanr_1.0.0",220
 "dataReporter_1.0.0",115
@@ -103,7 +103,7 @@
 "datasusbr_0.1.0",109
 "deconvSeq_0.3.1",33
 "deepMOU_0.1.0",59
-"DescrTab2_2.0.2",15
+"DescrTab2_2.0.2",16
 "descstat_0.1-0",48
 "DGEobj_1.0.1",67
 "dggridR_2.0.7",9
@@ -114,14 +114,14 @@
 "distro_0.1.0",124
 "doc2vec_0.1.0",100
 "dotgen_0.1.0",250
-"DoubleML_0.1.1",12
+"DoubleML_0.1.1",13
 "DPQmpfr_0.3-0",53
 "dracor_0.2.4",39
 "dragracer_0.1.4",112
 "drawsample_0.1.0",16
 "drawsample_0.1.1",98
 "driveR_0.1.1",130
-"DSjobtracker_0.1.1",2
+"DSjobtracker_0.1.1",3
 "DSMolgenisArmadillo_1.3.4",110
 "DTAplots_1.0.2.1",5
 "dtrSurv_1.0",37
@@ -140,7 +140,7 @@
 "envi_0.1.0",208
 "envi_0.1.1",295
 "envi_0.1.2",141
-"envi_0.1.3",372
+"envi_0.1.3",373
 "envir_0.1.0",94
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
@@ -205,7 +205,7 @@
 "GGMncv_2.0.0",8
 "ggpackets_2.0.0",117
 "ggthemr_1.1.0",50
-"giftwrap_0.0.4",130
+"giftwrap_0.0.4",131
 "giscoR_0.2.2",13
 "gitcreds_0.1.0",163
 "gmgm_1.0.0",224
@@ -309,7 +309,7 @@
 "mapSpain_0.1.1",65
 "maptiles_0.1.0",246
 "MASSExtra_1.0.1",26
-"MASSExtra_1.0.2",24
+"MASSExtra_1.0.2",25
 "matuR_0.0.1.0",161
 "maxcombo_1.0",124
 "mcbette_1.11",119
@@ -377,6 +377,7 @@
 "nlmixr_1.1.1-10",182
 "noisyCE2_1.1.0",124
 "noisySBM_0.1.1",86
+"noisySBM_0.1.3",1
 "NPMLEmix_1.1",106
 "nsyllable_1.0",4
 "occCite_0.4.5",14
@@ -408,11 +409,11 @@
 "plethem_1.1.0",168
 "pocketapi_0.0.0.9000",28
 "pocketapi_0.1",170
-"polyqtlR_0.0.4",11
+"polyqtlR_0.0.4",12
 "PooledCohort_0.0.1",187
 "PoolTestR_0.1.0",2
 "PoSI_1.1",458
-"postcards_0.1.0",2
+"postcards_0.1.0",3
 "potential_0.1.0",424
 "POV_0.1.3",115
 "POV_0.1.4",112
@@ -437,12 +438,12 @@
 "qsimulatR_1.0",79
 "qst_0.1.2",35
 "quadrupen_0.2-8",267
-"quanteda.textplots_0.90",37
+"quanteda.textplots_0.90",38
 "quanteda.textstats_0.90",147
 "r.jive_2.2",8
 "r.jive_2.3",132
 "r.jive_2.4",1
-"RadialVisGadgets_0.2.0",30
+"RadialVisGadgets_0.2.0",31
 "radous_0.1.0",145
 "RALSA_0.90.0",200
 "RALSA_0.90.1",132
@@ -457,7 +458,7 @@
 "rdacca.hp_0.1.0",221
 "read.cwa_0.2.1",200
 "read.gt3x_1.0.0",59
-"readrba_0.1.0",51
+"readrba_0.1.0",52
 "RecAssoRules_1.0",81
 "reconstructKM_0.3.0",168
 "RefManageR_1.3.0",146
@@ -475,7 +476,7 @@
 "rhcoclust_1.0.0",138
 "ricu_0.1.2",213
 "rjpdmp_0.1.0",67
-"rminizinc_0.0.1",16
+"rminizinc_0.0.1",17
 "rMisbeta_1.0",125
 "rmoo_0.1.4",124
 "rmoo_0.1.5",101
@@ -485,7 +486,7 @@
 "RPPASPACE_1.0.6",42
 "RPPASPACE_1.0.7",23
 "rsetse_0.4.0",155
-"rstac_0.9.0",35
+"rstac_0.9.0",36
 "RstoxData_1.0.15",131
 "RstoxData_1.0.16",144
 "RtD3_0.0.1",103
@@ -578,7 +579,7 @@
 "tidyseurat_0.1.17",3
 "tinylabels_0.1.0",228
 "tktdjl2r_0.1.0",355
-"tm.plugin.koRpus_0.4-1",4
+"tm.plugin.koRpus_0.4-1",5
 "tmhmm_1.3",151
 "TPLSr_1.0.0",16
 "TPLSr_1.0.1",200
