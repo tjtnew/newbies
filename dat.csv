@@ -81,7 +81,7 @@
 "comFuncs_0.0.4",70
 "comFuncs_0.0.5",27
 "CoMiRe_0.6",85
-"CoMiRe_0.7",59
+"CoMiRe_0.7",60
 "comparator_0.1.0",50
 "comparator_0.1.1",24
 "CompAREdesign_0.0.0.9000",1
@@ -107,7 +107,7 @@
 "CVEK_0.1-2",83
 "dabr_0.0.1",155
 "datacleanr_1.0.0",220
-"dataprep_0.1.0",24
+"dataprep_0.1.0",25
 "dataPreparation_1.0.1",23
 "dataReporter_1.0.0",185
 "DatastreamDSWS2R_1.7.6",4
@@ -162,7 +162,7 @@
 "EpiBibR_0.1.0",715
 "epinetr_0.93",202
 "ergm.ego_0.6.1",4
-"erratum_2.0.0",25
+"erratum_2.0.0",26
 "EstimDiagnostics_0.0.1",52
 "etrader_0.1.0",20
 "etrader_0.1.1",44
@@ -206,7 +206,7 @@
 "fullROC_0.1.0",61
 "functClust_0.1.6",245
 "functiondepends_0.2.1",182
-"FuzzyQ_0.1.0",75
+"FuzzyQ_0.1.0",76
 "gamlss.mx_4.5-0",118
 "gamlss.mx_6.0-0",143
 "gateR_0.1.1",156
@@ -339,7 +339,7 @@
 "LPsmooth_0.1.3",3
 "M2SMJF_1.0",154
 "mactivate_0.6.2",28
-"mactivate_0.6.3",28
+"mactivate_0.6.3",29
 "maczic_0.1.0",345
 "maGUI_3.0",401
 "mapboxer_0.4.0",164
@@ -453,14 +453,14 @@
 "pencal_0.0.1",138
 "pencal_0.1.1",43
 "personalr_1.0.1",69
-"peruse_0.1.0",55
+"peruse_0.1.0",56
 "pflamelet_0.1.0",41
 "pflamelet_0.1.1",96
-"PheNorm_0.1.0",87
+"PheNorm_0.1.0",88
 "phillydaodata_1.0.0",89
 "phonfieldwork_0.0.10",229
 "plethem_1.1.0",168
-"PLFD_0.9.0",18
+"PLFD_0.9.0",19
 "PNSIBGE_0.1.0",66
 "pocketapi_0.0.0.9000",28
 "pocketapi_0.1",170
@@ -480,7 +480,7 @@
 "prioritylasso_0.2.5",125
 "PRISMA2020_0.0.1",2
 "proceduralnames_0.1.0",33
-"promethee123_0.1.0",36
+"promethee123_0.1.0",37
 "ProSGPV_0.1.0",36
 "psqn_0.1.3",5
 "PSS.Health_0.1.2",9
@@ -535,7 +535,7 @@
 "RFCCA_1.0.0",1
 "RFCCA_1.0.1",39
 "RFCCA_1.0.2",59
-"rfieldclimate_0.1.0",70
+"rfieldclimate_0.1.0",71
 "RGibbsTypePriors_1.0",140
 "rgugik_0.2.0",109
 "rhcoclust_1.0.0",138
@@ -564,7 +564,7 @@
 "rwa_0.0.2",138
 "rwa_0.0.3",43
 "RxODE_1.0.1",23
-"rzentra_0.1.0",60
+"rzentra_0.1.0",61
 "sad_0.1.2",232
 "sad_0.1.3",102
 "salem_0.2.0",144
@@ -660,7 +660,7 @@
 "tidyseurat_0.1.17",3
 "tinylabels_0.1.0",228
 "tktdjl2r_0.1.0",355
-"tm.plugin.koRpus_0.4-1",101
+"tm.plugin.koRpus_0.4-1",102
 "tmhmm_1.3",151
 "TPLSr_1.0.0",16
 "TPLSr_1.0.1",200
@@ -676,7 +676,7 @@
 "UKFE_0.1.0",331
 "ukgasapi_0.20",65
 "ukgasapi_0.21",249
-"UPG_0.2.1",30
+"UPG_0.2.1",31
 "USgas_0.1.0",31
 "USP_0.0.0.9000",118
 "USP_0.1",131
